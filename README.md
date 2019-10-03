@@ -1,8 +1,11 @@
 # PersonalityStudy
 This data was collected as part of a personality study cunducted by my Advanced Statistics students. 
 
-The variables are described below
+The variables are described below,
 
-- asd
-- sdf
-- asdf
+- **Extroverted:** "How extroverted do you think you are?" (5-point scale)
+- **Introverted:** "How introverted do you think you are?" (5-point scale)
+- **DomInt:** "Are you an international or domestic student?"
+- **DayBoarding:** "Are you a day or boarding student?"
+- **Sex:** "Are you a male or female?"
+- **Zodiac:** " What is your zodiac sign?"
